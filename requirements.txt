@@ -1,0 +1,9 @@
+fastmcp
+requests
+beautifulsoup4
+readability-lxml
+ddgs
+PyMuPDF
+python-docx
+pandas
+openpyxl
